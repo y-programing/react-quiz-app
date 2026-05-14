@@ -1,0 +1,9 @@
+.result {
+  color: #fff;
+
+  .resultHighlight {
+    display: block;
+    font-weight: bold;
+    font-style: 30px;
+  }
+}
